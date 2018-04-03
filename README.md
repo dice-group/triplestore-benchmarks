@@ -3,12 +3,12 @@ We provide a fine-grained comparative analysis of existing triplestore benchmark
 
 ### Analysis
 Our analysis is based on the following benchmark design features: 
-* Dataset structuredness (*dataset related*)
-* Dataset relationship specialty (*dataset related*)
-* Overall queries diversity score based on important SPARQL query features, i.e., number of triple patterns, number of projection variables, result set sizes, query execution time, number of BGPs, number of join vertices, mean join vertex degree, mean triple pattern selectivities, BGP-restricted and join-restricted triple pattern selectivities, and join vertex types. (*queries related*)
+* Dataset structuredness (**dataset related**)
+* Dataset relationship specialty (**dataset related**)
+* Overall queries diversity score based on important SPARQL query features, i.e., number of triple patterns, number of projection variables, result set sizes, query execution time, number of BGPs, number of join vertices, mean join vertex degree, mean triple pattern selectivities, BGP-restricted and join-restricted triple pattern selectivities, and join vertex types. (**queries related**)
 * Percentages-wise distribution of the use of important SPARQL clauses (e.g., LIMIT, OPTIONAL, ORDER BY, DISTINCT,
-UNION, FILTER, REGEX) in benchmark queries  (*queries related*)
-* SPearsman's correlation of the query runtimes and important SPARQL query features (*queries related*)
+UNION, FILTER, REGEX) in benchmark queries  (**queries related**)
+* SPearsman's correlation of the query runtimes and important SPARQL query features (**queries related**)
 
 The first two features are related to benchmark datasets and later three are related to benchmark queries. Please refer to the manuscript for the details of above design features. 
 
