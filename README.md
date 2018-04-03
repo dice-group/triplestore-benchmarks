@@ -30,7 +30,7 @@ An example formats:
 java -jar benchmark-util.jar -m structuredness -e http://localhost:8890/sparql
 java -jar benchmark-util.jar -m specialty -e http://localhost:8890/sparql -g http://benchmark-eval.aksw.org/feasible
 ```
- 
+ To calculate the structuredness or relationship specialty of an RDF datasets, we need to first load the dataset into a triple store and provide the endpoint url as input to the jar file. The linux based virtuoso SPARQL endpoints the datasets of all the triplestore benchmarks and real-world datasets used in our evaluation can be downloaded from [here](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/). Note the virtuoso can be started from bin> ./start_virtuoso script. 
  2. Download the [Virtuoso](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-lsq-results.virtuoso.tar.gz) which contains the LSQ datasets of all the selected 10 triplestores benchmarks and  Note the jar requires the LSQ dataset endpoint URL to be provided as input. We have provided the Virtuoso 7.2 endpoints both for SWDF and DBpedia datasets which can be downloaded from [here](http://hobbitdata.informatik.uni-leipzig.de/sqcframework-lsq-endpoints/). The Windows virtuoso endpoint can be started from bin/start.bt while linux can be started from bin/start_virtuoso.sh.  
 From the folder run the following commands: 
 ```html
