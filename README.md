@@ -19,12 +19,13 @@ Please follow the following steps to reproduce the complete results presented in
  1. Download the folder [CLI](https://github.com/AKSW/triplestore-benchmarks/tree/master/cli) which contains a runable jar benchmark-util.jar. Run the following commands. 
  #### Datasets Related
  ```html
-### Dataset Structuredness Format ### 
  java -jar benchmark-util.jar  -m <measure> -e <endpoint> -g <graph> 
+
 where 
 measure = structuredness or specialty
 endpoint = endpoint url
 graph = graph name (optional)
+
 An example formats: 
 java -jar benchmark-util.jar -m structuredness -e http://localhost:8890/sparql
 java -jar benchmark-util.jar -m specialty -e http://localhost:8890/sparql -g http://benchmark-eval.aksw.org/feasible
