@@ -63,13 +63,8 @@ java -jar benchmark-util.jar -m correlation -e http://localhost:8890/sparql -q q
 You can run SPARQL SELECT DISTINCT ?g WHERE { GRAPH ?g {?s ?p ?o }} on the virtuoso downloded in step 2 to get the graph names of all the selected benchmarks and real-world datasets. Note you can add more queries into the input files in -q argument to get results for other features. 
 ```
 
- 
-
-
-### LSQ Datasets
-The LSQ datasets can be downloaded from [here](http://hobbitdata.informatik.uni-leipzig.de/lsq-dumps/)
 ### Complette Evaluation Results
-Our complete evaluation results can be found [here](https://github.com/AKSW/sqcframework/blob/master/SQCFramework-Evaluation-Results.xlsx)
+Our complete evaluation results can be found [here]()
 ### Authors
   * [Muhammad Saleem](https://sites.google.com/site/saleemsweb/) (AKSW, University of Leipzig) 
   * [Claus Stadler](http://aksw.org/ClausStadler.html) (AKSW, University of Leipzig)
