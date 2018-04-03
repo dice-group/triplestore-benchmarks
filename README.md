@@ -12,7 +12,7 @@ UNION, FILTER, REGEX) in benchmark queries
 
 Please refer to the manuscript for the details of above design features. 
 
-### Analyse New Benchmark
+### Reproducing Results and Analzing New Benchmarks
 We have provided source code to generate complete results about the selected triplestores benchmarks, presented in the paper. Also, you can generate complete analysis for any other benchmark not included in our result. The easiest way is to download the folder 
 folder [cli](https://github.com/AKSW/sqcframework/tree/master/cli) which contains a runable jar benchmark-util.jar and three queries file required as input for generating results (explained below).  Note the SQCFramework requires the LSQ dataset endpoint URL to be provided as input. We have provided the Virtuoso 7.2 endpoints both for SWDF and DBpedia datasets which can be downloaded from [here](http://hobbitdata.informatik.uni-leipzig.de/sqcframework-lsq-endpoints/). The Windows virtuoso endpoint can be started from bin/start.bt while linux can be started from bin/start_virtuoso.sh.  
 From the folder run the following commands: 
