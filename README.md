@@ -14,7 +14,7 @@ The first two features are related to benchmark datasets and later three are rel
 
 ### Reproducing Results
 Please follow the following steps to reproduce the complete results presented in the paper. 
- Markup : 1. A numbered list
+ 1. A numbered list
               1. A nested numbered list
               2. Which is numbered
           2. Which is numbered
