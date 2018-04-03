@@ -4,9 +4,9 @@ We provide a fine-grained comparative analysis of existing triplestore benchmark
 ### Benchmark Datasets and Queries Dowloads
 
 
-| *Dataset*   | *RDF Dump* | *Virtuoso endpoint* | *Queries* | *LSQ of Queries* |
-|-------------|------------|---------------------|-----------|------------------|
-|BioBench|[download]()||||
+| *Dataset*   | *RDF Dump* | *Virtuoso endpoint* | *Queries* | *Virtuoso containing LSQ of benchmark queries* |
+|-------------|------------|---------------------|-----------|------------------------------------------------|
+|BioBench|[download]()|download]()|download]()|download]()|
 ### Analysis
 Our analysis is based on the following benchmark design features: 
 * Dataset structuredness (**dataset related**)
