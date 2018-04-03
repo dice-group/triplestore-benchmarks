@@ -6,7 +6,7 @@ We provide a fine-grained comparative analysis of existing triplestore benchmark
 
 | *Benchmark/Dataset*   | *RDF Dump* | *Virtuoso endpoint* | *Queries* |
 |-------------|------------|---------------------|-----------|
-|Bowlogna|[download]()|[download]()|[download]()|[download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/) |
+|Bowlogna|[download]()|[download]()|[download]()|[download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries) |
 |TrainBench|[download]()|[download]()|[download]()|[download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/)|
 |BSBM|[download]()|[download]()|[download]()|[download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/)|
 |SP2Bench|[download]()|[download]()|[download]()|[download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/)|
