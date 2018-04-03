@@ -6,16 +6,16 @@ We provide a fine-grained comparative analysis of existing triplestore benchmark
 
 | *Benchmark/Dataset*   | *RDF Dump* | *Virtuoso endpoint* | *Queries* |
 |-------------|------------|---------------------|-----------|
-|Bowlogna|[download]()|[download]()|[download]()|[download]()|
-|TrainBench|[download]()|[download]()|[download]()|[download]()|
-|BSBM|[download]()|[download]()|[download]()|[download]()|
-|SP2Bench|[download]()|[download]()|[download]()|[download]()|
-|WatDiv|[download]()|[download]()|[download]()|[download]()|
-|LDBC-SNB|[download]()|[download]()|[download]()|[download]()|
-|FEASIBLE|[download]()|[download]()|[download]()|[download]()|
-|FishMark|[download]()|[download]()|[download]()|[download]()|
-|DBPSB|[download]()|[download]()|[download]()|[download]()|
-|BioBench|[download]()|[download]()|[download]()|[download]()|
+|Bowlogna|[download]()|[download]()|[download]()|[download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/)|
+|TrainBench|[download]()|[download]()|[download]()|[download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/)|
+|BSBM|[download]()|[download]()|[download]()|[download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/)|
+|SP2Bench|[download]()|[download]()|[download]()|[download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/)|
+|WatDiv|[download]()|[download]()|[download]()|[download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/)|
+|LDBC-SNB|[download]()|[download]()|[download]()|[download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/)|
+|FEASIBLE|[download]()|[download]()|[download]()|[download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/)|
+|FishMark|[download]()|[download]()|[download]()|[download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/)|
+|DBPSB|[download]()|[download]()|[download]()|[download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/)|
+|BioBench|[download]()|[download]()|[download]()|[download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/)|
 |DBpedia3.5.1|[download]()|[download]()|[download]()|[download]()|
 |SWDF|[download]()|[download]()|[download]()|[download]()|
 |NCBIGene|[download]()|[download]()|[download]()|[download]()|
