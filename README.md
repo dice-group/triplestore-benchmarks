@@ -6,8 +6,23 @@ We provide a fine-grained comparative analysis of existing triplestore benchmark
 
 | *Dataset*   | *RDF Dump* | *Virtuoso endpoint* | *Queries* |
 |-------------|------------|---------------------|-----------|
+|Bowlogna|[download]()|[download]()|[download]()|[download]()|
+|TrainBench|[download]()|[download]()|[download]()|[download]()|
+|BSBM|[download]()|[download]()|[download]()|[download]()|
+|SP2Bench|[download]()|[download]()|[download]()|[download]()|
+|WatDiv|[download]()|[download]()|[download]()|[download]()|
+|LDBC-SNB|[download]()|[download]()|[download]()|[download]()|
+|FEASIBLE|[download]()|[download]()|[download]()|[download]()|
+|FishMark|[download]()|[download]()|[download]()|[download]()|
+|DBPSB|[download]()|[download]()|[download]()|[download]()|
 |BioBench|[download]()|[download]()|[download]()|[download]()|
-||[download]()|[download]()|[download]()|[download]()|
+|DBpedia3.5.1|[download]()|[download]()|[download]()|[download]()|
+|SWDF|[download]()|[download]()|[download]()|[download]()|
+|NCBIGene|[download]()|[download]()|[download]()|[download]()|
+|SIDER|[download]()|[download]()|[download]()|[download]()|
+|DrugBank|[download]()|[download]()|[download]()|[download]()|
+
+
 ### Analysis
 Our analysis is based on the following benchmark design features: 
 * Dataset structuredness (**dataset related**)
