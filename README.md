@@ -7,20 +7,20 @@ We provide a fine-grained comparative analysis of existing triplestore benchmark
 | *Benchmark/Dataset*   | *RDF Dump* | *Virtuoso endpoint* | *Queries* |
 |-----------------------|------------|---------------------|-----------|
 |Bowlogna|d|d|[Download](https://drive.google.com/file/d/0B_MUFqryVpByQ0J2NFAtNVlzMUk/edit?usp=sharing/) |
-|TrainBench|[download]()|[download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/)|
-|BSBM|[download]()|[download]()|[download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/)|
-|SP2Bench|[download]()|[download]()|[download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/)|
-|WatDiv|[download]()|[download]()|[download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/)|
-|LDBC-SNB|[download]()|[download]()|[download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/)|
-|FEASIBLE|[download]()|[download]()|[download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/)|
-|FishMark|[download]()|[download]()|[download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/)|
-|DBPSB|[download]()|[download]()|[download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/)|
-|BioBench|[download]()|[download]()|[download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/)|
-|DBpedia3.5.1|[download]()|[download]()|[download]()|
-|SWDF|[download]()|[download]()|[download]()|
-|NCBIGene|[download]()|[download]()|[download]()|
-|SIDER|[download]()|[download]()|[download]()|
-|DrugBank|[download]()|[download]()|[download]()|
+|TrainBench|[Download]()|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/)|
+|BSBM|[Download]()|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/)|
+|SP2Bench|[Download]()|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/)|
+|WatDiv|[Download]()|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/)|
+|LDBC-SNB|[Download]()|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/)|
+|FEASIBLE|[Download]()|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/)|
+|FishMark|[Download]()|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/)|
+|DBPSB|[Download]()|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/)|
+|BioBench|[Download]()|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/)|
+|DBpedia3.5.1|[Download]()|[Download]()|[Download]()|
+|SWDF|[Download]()|[Download]()|[Download]()|
+|NCBIGene|[Download]()|[Download]()|[Download]()|
+|SIDER|[Download]()|[Download]()|[Download]()|
+|DrugBank|[Download]()|[Download]()|[Download]()|
 
 
 ### Analysis
