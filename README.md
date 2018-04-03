@@ -18,7 +18,8 @@ Please follow the following steps to reproduce the complete results presented in
  2. Download the [Virtuoso](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-lsq-results.virtuoso.tar.gz) which contains the LSQ datasets of all the selected 10 triplestores benchmarks and 5 real-world datasets. Please refer to [LSQ homepage](https://github.com/aksw/lsq) for generating an LSQ dataset of the queries of a new RDF benchmark. This step is only required to generate queries related results.
 
  ```html
- java -jar benchmark-util.jar  -m <measure> -e <endpoint> -g <graph> -q <queriesFile> 
+###Command line arguments ### 
+java -jar benchmark-util.jar  -m <measure> -e <endpoint> -g <graph> -q <queriesFile> 
 
 where 
  
