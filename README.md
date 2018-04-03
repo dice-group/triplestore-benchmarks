@@ -16,11 +16,11 @@ We provide a fine-grained comparative analysis of existing triplestore benchmark
 |FishMark|[Download]()|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/)|
 |DBPSB|[Download]()|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/)|
 |BioBench|[Download]()|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/)|
-|DBpedia3.5.1|[Download]()|[Download]()|[Download]()|
-|SWDF|[Download]()|[Download]()|[Download]()|
-|NCBIGene|[Download]()|[Download]()|[Download]()|
-|SIDER|[Download]()|[Download]()|[Download]()|
-|DrugBank|[Download]()|[Download]()|[Download]()|
+|DBpedia3.5.1|[Download]()|[Download]()|-|
+|SWDF|[Download]()|[Download]()|-|
+|NCBIGene|[Download]()|[Download]()|-|
+|SIDER|[Download]()|[Download]()|-|
+|DrugBank|[Download]()|[Download]()|-|
 
 
 ### Analysis
