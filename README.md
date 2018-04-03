@@ -4,7 +4,7 @@ We provide a fine-grained comparative analysis of existing triplestore benchmark
 ### Benchmark Datasets and Queries
 
 
-| *Dataset*   | *RDF Dump* | *Virtuoso endpoint* | *Queries* |
+| *Benchmark/Dataset*   | *RDF Dump* | *Virtuoso endpoint* | *Queries* |
 |-------------|------------|---------------------|-----------|
 |Bowlogna|[download]()|[download]()|[download]()|[download]()|
 |TrainBench|[download]()|[download]()|[download]()|[download]()|
