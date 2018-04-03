@@ -10,11 +10,15 @@ Our analysis is based on the following benchmark design features:
 UNION, FILTER, REGEX) in benchmark queries 
 * SPearsman's correlation of the query runtimes and important SPARQL query features
 
-Please refer to the manuscript for the details of above design features. 
+The first two features are related to benchmark datasets and later three are related to benchmark queries. Please refer to the manuscript for the details of above design features. 
 
-### Reproducing Results and Analzing New Benchmarks
-We have provided source code to generate complete results about the selected triplestores benchmarks, presented in the paper. Also, you can generate complete analysis for any other benchmark not included in our result. The easiest way is to download the folder 
-folder [cli](https://github.com/AKSW/triplestore-benchmarks/tree/master/cli) which contains a runable jar benchmark-util.jar and three queries file required as input for generating results (explained below). Note the SQCFramework requires the LSQ dataset endpoint URL to be provided as input. We have provided the Virtuoso 7.2 endpoints both for SWDF and DBpedia datasets which can be downloaded from [here](http://hobbitdata.informatik.uni-leipzig.de/sqcframework-lsq-endpoints/). The Windows virtuoso endpoint can be started from bin/start.bt while linux can be started from bin/start_virtuoso.sh.  
+### Reproducing Results
+Please follow the following steps to reproduce the complete results presented in the paper. 
+ Markup : 1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
+folder [cli](https://github.com/AKSW/triplestore-benchmarks/tree/master/cli) which contains a runable jar benchmark-util.jar and three queries file required as input for generating results (explained below). Note the jar requires the LSQ dataset endpoint URL to be provided as input. We have provided the Virtuoso 7.2 endpoints both for SWDF and DBpedia datasets which can be downloaded from [here](http://hobbitdata.informatik.uni-leipzig.de/sqcframework-lsq-endpoints/). The Windows virtuoso endpoint can be started from bin/start.bt while linux can be started from bin/start_virtuoso.sh.  
 From the folder run the following commands: 
 ```html
 ### DBSCAN+Kmeans++ Format ### 
