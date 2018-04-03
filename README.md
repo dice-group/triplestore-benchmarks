@@ -67,8 +67,8 @@ You can run SPARQL SELECT DISTINCT ?g WHERE { GRAPH ?g {?s ?p ?o }} on the virtu
 Our complete evaluation results can be found [here](https://github.com/AKSW/triplestore-benchmarks/raw/master/complete-evaluation-results.xlsx)
 ### Authors
   * [Muhammad Saleem](https://sites.google.com/site/saleemsweb/) (AKSW, University of Leipzig) 
-  * [Gabor](http://aksw.org/ClausStadler.html) (AKSW, University of Leipzig)
-  * [Felix Conrads](http://aksw.org/ClausStadler.html) (AKSW, University of Leipzig)
-  * [Ahmad](http://aksw.org/ClausStadler.html) (AKSW, University of Leipzig)
+  * [Gábor	Szárnyas](https://inf.mit.bme.hu/en/members/szarnyasg/) (MTA-BME, Budapest Univ. of Tech. and Econ)
+  * [Felix Conrads](http://aksw.org/FelixConrads.html) (AKSW, University of Leipzig)
+  * [Syed Ahmad Chan	Bukhari](http://ahmadchan.com) (Department of Pathology, Yale University School of Medicine)
   * [Qaiser Mehmood](https://www.insight-centre.org/users/qaiser-mehmood) (INSIGHT, University of Galway) 
   * [Axel-Cyrille Ngonga Ngomo](http://aksw.org/AxelNgonga.html) (AKSW, University of Leipzig)
