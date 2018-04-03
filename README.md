@@ -1,12 +1,13 @@
 ### How Representative is a SPARQL Benchmark? An Analysis of RDF Triplestore Benchmarks
 We provide a fine-grained comparative analysis of existing triplestore benchmarks. In particular, we have analyzed the data and queries, provided with the existing triplestore benchmarks in addition to several real-world datasets. Further, we have measured the correlation between the query execution time and various SPARQL query features and ranked those features based on their significance levels. Our experiments have revealed  several interesting insights about the design of such benchmarks. We can hope such fine-grained evaluation will be helpful for SPARQL benchmark designers to design diverse benchmarks in the future. 
 
-### Benchmark Datasets and Queries Dowloads
+### Benchmark Datasets and Queries
 
 
 | *Dataset*   | *RDF Dump* | *Virtuoso endpoint* | *Queries* |
 |-------------|------------|---------------------|-----------|
 |BioBench|[download]()|[download]()|[download]()|[download]()|
+||[download]()|[download]()|[download]()|[download]()|
 ### Analysis
 Our analysis is based on the following benchmark design features: 
 * Dataset structuredness (**dataset related**)
