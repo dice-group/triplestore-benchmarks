@@ -7,11 +7,11 @@ We provide a fine-grained comparative analysis of existing triplestore benchmark
 | *Benchmark/Dataset*   | *RDF Dump* | *Virtuoso endpoint* | *Queries* |
 |-----------------------|------------|---------------------|-----------|
 |Bowlogna|d|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/)|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/) |
-|TrainBench|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/)|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/) |
+|[TrainBench](http://docs.inf.mit.bme.hu/trainbenchmark/)|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/)|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/) |
 |BSBM|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/)|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/) |
 |SP2Bench|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/)|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/) |
 |WatDiv|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/)|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/) |
-|LDBC-SNB|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/)|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/) |
+|[LDBC-SNB](https://ldbc.github.io/ldbc_snb_docs/wiki)|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/)|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/) |
 |FEASIBLE|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/)|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/) |
 |FishMark|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/)|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/) |
 |DBPSB|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/)|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/) |
@@ -67,7 +67,7 @@ You can run SPARQL SELECT DISTINCT ?g WHERE { GRAPH ?g {?s ?p ?o }} on the virtu
 Our complete evaluation results can be found [here](https://github.com/AKSW/triplestore-benchmarks/raw/master/complete-evaluation-results.xlsx)
 ### Authors
   * [Muhammad Saleem](https://sites.google.com/site/saleemsweb/) (AKSW, University of Leipzig) 
-  * [Gábor	Szárnyas](https://inf.mit.bme.hu/en/members/szarnyasg/) (MTA-BME, Budapest Univ. of Tech. and Econ)
+  * [Gábor	Szárnyas](https://inf.mit.bme.hu/en/members/szarnyasg/) (MTA-BME Lendület Cyber-Physical Systems Research Group, Budapest University of Technology and Economics)
   * [Felix Conrads](http://aksw.org/FelixConrads.html) (AKSW, University of Leipzig)
   * [Syed Ahmad Chan	Bukhari](http://ahmadchan.com) (Department of Pathology, Yale University School of Medicine)
   * [Qaiser Mehmood](https://www.insight-centre.org/users/qaiser-mehmood) (INSIGHT, University of Galway) 
