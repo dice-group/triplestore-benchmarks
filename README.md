@@ -32,8 +32,9 @@ java -jar benchmark-util.jar -m structuredness -e http://localhost:8890/sparql
 java -jar benchmark-util.jar -m specialty -e http://localhost:8890/sparql -g http://benchmark-eval.aksw.org/feasible
 ```
  To calculate the structuredness or relationship specialty of an RDF datasets, we need to first load the dataset into a triple store and provide the endpoint url as input to the jar file. The linux based virtuoso SPARQL endpoints the datasets of all the triplestore benchmarks and real-world datasets used in our evaluation can be downloaded from [here](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/). Note the virtuoso can be started from bin/start_virtuoso.sh script. The utility work for any SPARQL endpoint. 
+ 
  ##### Queries Related
- 2. In addtion to step (1.), download the [Virtuoso](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-lsq-results.virtuoso.tar.gz) which contains the LSQ datasets of all the selected 10 triplestores benchmarks and 5 real-world datasets. Please refer to [LSQ homepage](https://github.com/aksw/lsq) for generating an LSQ dataset of the benchmark queries. 
+ 2. In addtion to step (1.), download the [Virtuoso](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-lsq-results.virtuoso.tar.gz) which contains the LSQ datasets of all the selected 10 triplestores benchmarks and 5 real-world datasets. Please refer to [LSQ homepage](https://github.com/aksw/lsq) for generating an LSQ dataset of the queries of a new RDF benchmark. 
 From the folder run the following commands: 
 ```html
  java -jar benchmark-util.jar  -m <measure> -e <endpoint> -g <graph> -q <queriesFile> 
@@ -43,6 +44,13 @@ measure = diversity or percentage or correlation
 endpoint = endpoint url
 graph = graph name (optional)
 queriesFile = queries file (please note the queries files are already provided with the cli folder downloaded in step 1.)
+ 
+An example formats: 
+java -jar benchmark-util.jar -m diversity -e http://localhost:8890/sparql -g http://benchmark-eval.aksw.org/feasible -q queries-diversity.txt 
+java -jar benchmark-util.jar -m percentage -e http://localhost:8890/sparql -q queries-percent.txt -g http://benchmark-eval.aksw.org/biobench
+java -jar benchmark-util.jar -m correlation -e http://localhost:8890/sparql -q queries-correlation.txt -g http://benchmark-eval.aksw.org/dbpsb
+
+ Note you can add more queries into the input files in -q argument to get results for other features. 
 ```
 
 ### LSQ Datasets
