@@ -6,16 +6,16 @@ We provide a fine-grained comparative analysis of existing triplestore benchmark
 
 | *Benchmark/Dataset*   | *RDF Dump* | *Virtuoso endpoint* | *Queries* |
 |-----------------------|------------|---------------------|-----------|
-|Bowlogna|d|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/)|[Download](https://drive.google.com/file/d/0B_MUFqryVpByQ0J2NFAtNVlzMUk/edit?usp=sharing/) |
-|TrainBench|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/)|[Download](https://drive.google.com/file/d/0B_MUFqryVpByQ0J2NFAtNVlzMUk/edit?usp=sharing/) |
-|BSBM|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/)|[Download](https://drive.google.com/file/d/0B_MUFqryVpByQ0J2NFAtNVlzMUk/edit?usp=sharing/) |
-|SP2Bench|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/)|[Download](https://drive.google.com/file/d/0B_MUFqryVpByQ0J2NFAtNVlzMUk/edit?usp=sharing/) |
-|WatDiv|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/)|[Download](https://drive.google.com/file/d/0B_MUFqryVpByQ0J2NFAtNVlzMUk/edit?usp=sharing/) |
-|LDBC-SNB|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/)|[Download](https://drive.google.com/file/d/0B_MUFqryVpByQ0J2NFAtNVlzMUk/edit?usp=sharing/) |
-|FEASIBLE|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/)|[Download](https://drive.google.com/file/d/0B_MUFqryVpByQ0J2NFAtNVlzMUk/edit?usp=sharing/) |
-|FishMark|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/)|[Download](https://drive.google.com/file/d/0B_MUFqryVpByQ0J2NFAtNVlzMUk/edit?usp=sharing/) |
-|DBPSB|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/)|[Download](https://drive.google.com/file/d/0B_MUFqryVpByQ0J2NFAtNVlzMUk/edit?usp=sharing/) |
-|BioBench|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/)|[Download](https://drive.google.com/file/d/0B_MUFqryVpByQ0J2NFAtNVlzMUk/edit?usp=sharing/) |
+|Bowlogna|d|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/)|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/) |
+|TrainBench|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/)|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/) |
+|BSBM|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/)|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/) |
+|SP2Bench|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/)|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/) |
+|WatDiv|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/)|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/) |
+|LDBC-SNB|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/)|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/) |
+|FEASIBLE|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/)|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/) |
+|FishMark|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/)|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/) |
+|DBPSB|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/)|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/) |
+|BioBench|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/)|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/) |
 |DBpedia3.5.1|[Download]()|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-lsq-results.virtuoso.tar.gz)|
 |SWDF|[Download]()|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-lsq-results.virtuoso.tar.gz)|
 |NCBIGene|[Download]()|[Download]()|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-lsq-results.virtuoso.tar.gz)|
