@@ -4,7 +4,7 @@ We provide a fine-grained comparative analysis of existing triplestore benchmark
 ### Benchmark Datasets and Queries
 
 
-| *Benchmark/Dataset*   | *RDF Dump* | *Virtuoso endpoint* | *Queries* |
+| *Benchmark/Dataset*   | *RDF Dump* | *Virtuoso Store* | *Queries* |
 |-----------------------|------------|---------------------|-----------|
 |[Bowlogna](https://exascale.info/assets/pdf/BowlognaBenchSIMPDA2011.pdf)|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/datasets-dumps/)|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/)|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/) |
 |[TrainBench](http://docs.inf.mit.bme.hu/trainbenchmark/)|[Download](https://www.dropbox.com/s/n7s02dzf0dyf4by/trainbenchmark-models-1-1024.zip?dl=0)|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/benchmarks-datasets-virtuoso/)|[Download](https://hobbitdata.informatik.uni-leipzig.de/benchmarks-data/queries/) |
