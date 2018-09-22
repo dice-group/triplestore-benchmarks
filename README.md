@@ -1,12 +1,8 @@
-### Message for Reviewer 4 regarding rebuttal
-R4:Comparison with [8] : [8] compares two benchamrks only for their datasets structuredness. It does not compare their queries. The response in rebuttal was not preceise regarding this specific question.
 ### How Representative is a SPARQL Benchmark? An Analysis of RDF Triplestore Benchmarks
 We provide a fine-grained comparative analysis of existing triplestore benchmarks. In particular, we have analyzed the data and queries, provided with the existing triplestore benchmarks in addition to several real-world datasets. Further, we have measured the correlation between the query execution time and various SPARQL query features and ranked those features based on their significance levels. Our experiments have revealed  several interesting insights about the design of such benchmarks. We can hope such fine-grained evaluation will be helpful for SPARQL benchmark designers to design diverse benchmarks in the future.
 ### Persistent URI, Licence 
 All of the data and results presented in our evaluation are available online from
 https://github.com/dice-group/triplestore-benchmarks under [GNU General Public License v3.0](https://github.com/dice-group/triplestore-benchmarks/blob/master/LICENSE).
-### Canonical Citation
- Muhammad Saleem, Gábor	Szárnyas, Felix Conrads, Syed Ahmad Chan Bukhari, Qaiser Mehmood, and Axel-Cyrille Ngonga Ngomo. "How Representative is a SPARQL Benchmark? An Analysis of RDF Triplestore Benchmarks" In International Semantic Web Conference, 2018.
 
 ### Benchmark Datasets and Queries
 We provide the datasets and queries of the benchmarmks and real-world datasets used in our evaluation. The datasets are also provided as portable virtuoso triplestores which can be started from bin/start_virtuoso.sh.
